@@ -3,6 +3,7 @@ body {
   }
 
   .gammeldame {
-    size: 25vh;
-    box-shadow: yellow;
+    size: 25px;
+    box-shadow: yellow 100px;
+    
   }
