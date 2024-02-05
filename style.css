@@ -1,3 +1,8 @@
 body {
     background-color: #27ff4e; 
   }
+
+  .gammeldame {
+    size: 25vh;
+    box-shadow: yellow;
+  }
